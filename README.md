@@ -1,1 +1,1 @@
-# homework_example
+# Основной README файл.
